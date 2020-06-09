@@ -2,6 +2,7 @@
 Image Editor in Python.
 
 Grayscale
+
 Histogram and cumulative histogram
 Contrast stretching
 Histogram equalization
